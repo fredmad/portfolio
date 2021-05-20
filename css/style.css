@@ -505,7 +505,7 @@ COMPETENCES / A PROPOS
 	padding: 15px;
 	background: #ffffff;
     margin-bottom: 30px;
-    min-height: 392px;
+    min-height: 375px;
 }
 .ser-icon{
 	width: 90px;
@@ -929,20 +929,24 @@ hr.invis1 {
 	position: absolute;
 	top: 15px;
 	right: 15px;
-	background: #333333;
 	color: #fff;
 	padding: 10px 15px;
 	text-align: center;
 }
 
-.post-thumb{
-	position: relative;
+.date {
+    background: #333333;
 }
 
 .post-box{
 	-webkit-box-shadow: 0px 5px 35px 0px rgba(148, 146, 245, 0.15);
 	box-shadow: 0px 5px 35px 0px rgba(148, 146, 245, 0.15);
 	background: #ffffff;
+    min-height: 510px;
+}
+
+.post-thumb{
+	position: relative;
 }
 
 .post-info{
@@ -1049,7 +1053,7 @@ hr.invis1 {
     color: #999 !important;
     margin: 0 !important;
     padding: 0 !important;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 .stat-wrap p {
@@ -1058,7 +1062,7 @@ hr.invis1 {
     margin: 0;
     font-weight: 300;
     padding: 4px 0 0;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 #preloader {
