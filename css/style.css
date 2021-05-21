@@ -171,7 +171,6 @@ blockquote {
 -------------------------------------------------------------------*/
 .navbar-dark .navbar-nav .nav-link{
 	color: #ffffff;
-	letter-spacing: 1px;
 	font-size: 14px;
 	position: relative;
 }
@@ -281,7 +280,7 @@ COMPETENCES / A PROPOS
 -------------------------------- */
 .cd-headline.clip span {
   display: inline-block;
-  padding: .2em 0;
+  padding: 1.5em 0;
   color: #ffffff;
   font-size: 30px;
 }
@@ -1065,7 +1064,7 @@ hr.invis1 {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #333333;
+    background: #1481ba;
     z-index: 11000;
     position: fixed;
     display: block
@@ -1141,17 +1140,7 @@ hr.invis1 {
 /*------------------------------------------------------------------
     CAROUSEL
 -------------------------------------------------------------------*/
-/* 
-.carousel-indicators li {
-    width: 10px;
-    height: 10px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    border-radius: 100%;
+
+.carousel {
+    border: 2px solid #1481ba !important;
 }
-.carousel-indicators {
-    background-color: #1481ba;
-    margin-left: 41%;
-    margin-right: 41%;
-    bottom: -50px;
-} */
